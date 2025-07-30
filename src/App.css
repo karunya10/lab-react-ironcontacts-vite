@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.tableHead {
+  gap: 50px;
+}
+
+.btn-Container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+img {
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+}
+th {
+  padding: 50px;
+}
